@@ -1,5 +1,7 @@
 ## Agenda
 
+> congratulations: you've now made it through 1/3 of the course. Where have we been & where are we going?
+
 ### Wikipedia
 - what have we learned?
 
